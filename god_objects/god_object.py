@@ -1,5 +1,6 @@
 """Suppose there is a class that contains many methods, does too many things.
-How to separate categories of functions into their own spaces?"""
+How to separate categories of functions into their own spaces?
+Since I want to pass type hints/straddling: how to avoid circular imports?"""
 
 
 # ! God object
